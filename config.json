@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterpalidate",
+        "uuid": 45711063,
+        "checksum": "p5lfs"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
